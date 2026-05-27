@@ -1,0 +1,6 @@
+{
+  "name": "QuizCraft",
+  "description": "An addictive, modern mobile quiz game with live score counters, timer bars, coin systems, and full-screen 9:16 Shorts/TikTok video previews and thumbnail designers powered by Gemini AI and custom sound generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Glowing Background Aura inside the icon -->
+    <path
+        android:fillColor="#1B133A"
+        android:strokeColor="#FF007F"
+        android:strokeWidth="1.5"
+        android:pathData="M 54,22 C 71.67,22 86,36.33 86,54 C 86,71.67 71.67,86 54,86 C 36.33,86 22,71.67 22,54 C 22,36.33 36.33,22 54,22 Z" />
+
+    <!-- Neon Controller / Emblem Shield -->
+    <path
+        android:fillColor="#2B1E54"
+        android:strokeColor="#00FFFF"
+        android:strokeWidth="2"
+        android:pathData="M 34,44 L 54,32 L 74,44 L 74,66 L 54,78 L 34,66 Z" />
+
+    <!-- Centered Neon Yellow Question Mark -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M 54,41 C 51.5,41 49.5,42.5 49.5,44.5 L 52,44.5 C 52,43.5 53,42.8 54,42.8 C 55,42.8 55.8,43.5 55.8,44.5 C 55.8,45.8 54.3,46.5 53.5,47.5 C 52.8,48.5 52.8,49.5 52.8,51 C 52.8,51.3 53.2,51.8 53.8,51.8 L 54.2,51.8 C 54.8,51.8 55.1,51.3 55.1,51 C 55.1,50 55.1,49.2 55.8,48.5 C 56.5,47.8 58.2,46.5 58.2,44.5 C 58.2,42.5 56.5,41 54,41 Z" />
+
+    <!-- Bottom Question Dot -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M 54,54 C 55.1,54 56,53.1 56,52 C 56,50.9 55.1,50 54,50 C 52.9,50 52,50.9 52,52 C 52,53.1 52.9,54 54,54 Z" />
+
+    <!-- Bottom Mini Achievement Ribbon / Gaming Wings -->
+    <path
+        android:fillColor="#FF007F"
+        android:pathData="M 40,68 L 44,76 L 54,72 L 64,76 L 68,68 Z" />
+
+</vector>
